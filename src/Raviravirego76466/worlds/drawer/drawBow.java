@@ -29,9 +29,7 @@ public class DrawBow extends DrawBlock {
     public float bowWidth = 36, bowHeight = 15, bowTk = 8, turretTk = 15;
     //拉弓引发的弹性形变
     public float visRad = 12;
-    //弓的颜色
-    public Color color = EUItems.lightninAlloy.color;
-
+    
     public Drawable drawable;
 
     public String arrowSp = null;
