@@ -18,6 +18,8 @@ import mindustry.world.blocks.defense.turrets.Turret;
 import mindustry.world.blocks.defense.turrets.Turret.TurretBuild;
 import mindustry.world.draw.DrawBlock;
 
+import static Raviravirego76466.DrawLibMod.name;
+
 //old
 public class DrawBow extends DrawBlock {
     //弓弦走的距离，bowMoveY = 数值 - bowFY
