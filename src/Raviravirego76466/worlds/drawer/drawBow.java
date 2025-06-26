@@ -1,5 +1,6 @@
 package Raviravirego76466.worlds.drawer;
 
+import Raviravirego76466.content.DLGet;
 import arc.Core;
 import arc.graphics.Color;
 import arc.graphics.g2d.Draw;
